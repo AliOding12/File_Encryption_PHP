@@ -126,4 +126,4 @@ The workflow for downloading and decrypting a file is as follows:
 Contributions are welcome! Please submit issues or pull requests via GitHub. Ensure code follows PSR-12 standards and includes appropriate tests.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.<!-- Initial commit: Set up project with README and .gitignore -->
