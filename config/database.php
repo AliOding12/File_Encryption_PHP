@@ -9,5 +9,5 @@ return [
     'database' => $_ENV['DB_NAME'] ?? 'file_storage',
     'username' => $_ENV['DB_USER'] ?? 'root',
     'password' => $_ENV['DB_PASS'] ?? '',
-];
-?>
+];//this is not the right one can change the localhost etc 
+?>// Add database configuration in database.php
