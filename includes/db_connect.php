@@ -10,6 +10,6 @@ function getDbConnection() {
         return $pdo;
     } catch (PDOException $e) {
         die("Connection failed: " . $e->getMessage());
-    }
+    }//make sure for the charset = utf8mb4 for when you change to your database and its settings
 }
-?>
+?>// Implement database connection logic in db_connect.php
