@@ -5,7 +5,7 @@ require_once __DIR__ . '/includes/encryption.php';
 if (!isset($_GET['id']) || !is_numeric($_GET['id'])) {
     http_response_code(400);
     die("Invalid file ID");
-}
+}//main file
 
 try {
     $pdo = getDbConnection();
@@ -41,4 +41,4 @@ try {
     http_response_code(500);
     die("Error: " . $e->getMessage());
 }
-?>
+?>// Add initial file download logic in download.php
