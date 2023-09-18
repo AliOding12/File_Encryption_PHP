@@ -1,1 +1,1 @@
-Deny from all
+ Deny from all<!-- Add .htaccess for security rules to restrict uploads access -->
