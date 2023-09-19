@@ -42,3 +42,4 @@ try {
     die("Error: " . $e->getMessage());
 }
 ?>// Add initial file download logic in download.php
+// Add decryption support to download.php
