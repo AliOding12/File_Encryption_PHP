@@ -11,3 +11,4 @@ return [
     'password' => $_ENV['DB_PASS'] ?? '',
 ];//this is not the right one can change the localhost etc 
 ?>// Add database configuration in database.php
+// Add connection pooling configuration
