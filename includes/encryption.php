@@ -4,3 +4,4 @@ function decryptFile($encryptedData, $key, $iv) {
 }//can change the cipher_algo to what ever method 
 ?>// Add encryption helper functions in encryption.php
 // Implement decryption functions in encryption.php
+// Optimize encryption performance
