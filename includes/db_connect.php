@@ -15,3 +15,4 @@ function getDbConnection() {
 ?>// Implement database connection logic in db_connect.php
 // Add error handling to database connection
 // Add prepared statements to db_connect.php
+// Add connection timeout handling
