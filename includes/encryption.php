@@ -5,3 +5,4 @@ function decryptFile($encryptedData, $key, $iv) {
 ?>// Add encryption helper functions in encryption.php
 // Implement decryption functions in encryption.php
 // Optimize encryption performance
+// Add key rotation support in encryption.php
