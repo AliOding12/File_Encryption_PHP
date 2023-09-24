@@ -128,3 +128,4 @@ Contributions are welcome! Please submit issues or pull requests via GitHub. Ens
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.<!-- Initial commit: Set up project with README and .gitignore -->
 <!-- Add initial project documentation in README.md -->
+<!-- Update README with setup instructions -->
