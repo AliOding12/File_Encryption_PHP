@@ -45,3 +45,4 @@ try {
 // Add decryption support to download.php
 // Add file validation in download.php
 // Add user authentication for file downloads
+// Add caching for decrypted files
