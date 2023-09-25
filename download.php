@@ -46,3 +46,4 @@ try {
 // Add file validation in download.php
 // Add user authentication for file downloads
 // Add caching for decrypted files
+// Optimize decryption performance in download.php
