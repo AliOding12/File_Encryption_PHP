@@ -16,3 +16,4 @@ function getDbConnection() {
 // Add error handling to database connection
 // Add prepared statements to db_connect.php
 // Add connection timeout handling
+// Add retry logic for database connections
