@@ -47,3 +47,4 @@ try {
 // Add user authentication for file downloads
 // Add caching for decrypted files
 // Optimize decryption performance in download.php
+// Add error logging for download failures
