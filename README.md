@@ -130,3 +130,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 <!-- Add initial project documentation in README.md -->
 <!-- Update README with setup instructions -->
 <!-- Document file download features in README.md -->
+<!-- Finalize README with usage examples -->
