@@ -49,3 +49,4 @@ try {
 // Optimize decryption performance in download.php
 // Add error logging for download failures
 // Add support for partial file downloads
+// Add unit tests for download.php
